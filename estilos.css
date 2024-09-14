@@ -29,7 +29,7 @@ body {
     font-family: 'Roboto', sans-serif;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
     z-index: 1000; /* Ensure it's on top of other elements */
-    bottom: 200px; /* Ajusta este valor según cuánto quieras bajarla */
+    bottom: 2000px; /* Ajusta este valor según cuánto quieras bajarla */
 }
 .night {
   position: fixed;
