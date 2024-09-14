@@ -19,7 +19,6 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
-
 .title {
     position: absolute;
     top: 50%;
@@ -27,9 +26,10 @@ body {
     transform: translate(-50%, -50%);
     font-size: 5rem;
     color: white;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
     z-index: 1000; /* Ensure it's on top of other elements */
+    bottom: 20px; /* Ajusta este valor según cuánto quieras bajarla */
 }
 .night {
   position: fixed;
