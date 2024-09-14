@@ -19,6 +19,12 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
+.nicolas-info {
+  font-size: 20px;
+  color: #333;
+  text-align: center;
+}
+
 .night {
   position: fixed;
   left: 50%;
